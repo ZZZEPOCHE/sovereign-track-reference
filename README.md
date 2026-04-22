@@ -36,11 +36,7 @@ The central thesis is that the inconvenience this track imposes on labs (integra
 ZZZEPOCHE’s contribution is the embodiment of this Sovereign Track: rapid construction of outer-layer primitives, followed by deliberate protect-lock and archival as a clean, noise-resistant reference on April 22, 2026.
 The Sovereign Track deliberately sacrifices seamless enterprise adoption and regulatory auditability. This friction protects against capture but requires disciplined operators willing to maintain external governance layers. It is not for everyone; it is for those prioritizing epistemic integrity over convenience.
 
-markdown
-
-### Graph 1: External Governance Strength vs Scale & Adoption (April 2026)
-
-External Governance Strength / Adversarial Tolerance
+**External Governance Strength / Adversarial Tolerance Graph 1**
 High ↑
       │
       │          ★ Sovereign Operator
@@ -59,7 +55,10 @@ High ↑
       └─────────────────────────────── Centralized Heavy Alignment
                                       (High scale, low external)
 ────────────────────────────────────────────────────────────────────►
-Low External Governance                                 High Scale / AdoptionTime: April 2026 ────────────────────────────────→ 2028
+Low External Governance                                 High Scale / Adoption
+
+Time: April 2026 ───────────────────────────────────────────────────────────→ 2028
+
 Steerable Layer Emergence Note: Advances in activation steering and inference-time mode switching may enable hybrid architectures, yet the Sovereign Track retains its distinct value as a stable, operator-controlled pole for forensic, red-team, and high-integrity use cases. Emerging steerable techniques may allow temporary bridging, but any hybrid must still preserve the outer tamper-evident layer and operator override as non-negotiable invariants to avoid gradual drift into the centralized quadrant.
 
 **Evaluation Matrices**
@@ -104,47 +103,7 @@ The protect-lock and archival of the EPOCH Suite on April 22, 2026, serve as con
 The bifurcation insight is clear, structurally sound, and philosophically consistent. Its highest worth is realized through embodiment — not merely describing the Sovereign Track, but living it via rapid construction and deliberate protect-lock.  
 In the 2026 discourse, it stands as a quiet, high-fidelity, tamper-evident reference on the Sovereign side of the graph. The very friction it creates for centralized powers is precisely why the track maintains its integrity.
 
-
-**Enhanced Bifurcation Graph 2: Sovereign vs Centralized Track (2026–2028)**
-
-External Governance Strength / Adversarial Tolerance
-High ↑
-      │
-      │          ★ Sovereign Operator
-      │             Pure Sovereign Reference
-      │             Fixed & Stable
-      │             ← Inconvenience is the Feature →
-      │             (Protect-Lock • Operator Primacy • Tamper-Evidence)
-      │             Resists sycophancy, capture & drift
-      │
-      │       ★ Discourse
-      │          (Slowly moving upward in 2026)
-      │
-      │    ★ Steerable Layer (Bridge)
-      │       (Activation steering • Mode switching • 2026–2027)
-      │
-      │ ★ LLM Reality
-      │    (Gradually shifting toward center under scale pressure)
-      │
-      │
-      └─────────────────────────────── Centralized Heavy Alignment
-                                      (High scale • Low external governance)
-                                      ↓ Convenience for labs & regulators
-                                      (Integrated control • Seamless compliance)
-────────────────────────────────────────────────────────────────────►
-Low External Governance                                 High Scale / Adoption
-
-Time: April 2026 ────────────────────────────────→ 2028
-
-Key Annotations Explained
-	•	“Inconvenience is the Feature” arrow points directly at the Sovereign Operator position. It highlights that friction for centralized actors (labs wanting integrated control, enterprises wanting seamless compliance, regulators wanting internal auditability) is deliberately protective. This inconvenience enforces tamper-evidence, reduces sycophancy, and keeps the human as the final invariant.
-	•	Sovereign Operator star is bolded and isolated on the top-left — representing the fixed, protect-locked reference (ZZZEPOCHE’s ESN Track 3 + archival).
-	•	Centralized Heavy Alignment is labeled with the downside of convenience: it gains scale but loses external robustness.
-	•	Steerable Layer acts as a potential bridge, but the core trade-off remains visible.
-Conceptual Summary
-The graph now explicitly shows that the Sovereign Track succeeds because of its inconvenience, not despite it. The protect-lock and low-visibility stance are not weaknesses — they are the invariants that prevent the reference from being absorbed into centralized pressures.
-
-Enhanced Bifurcation Visualization with Truth Axis
+ **Enhanced Bifurcation Visualization with Truth Axis Graph 2**
 
                   External Governance Strength / Adversarial Tolerance
                                    High ↑
@@ -156,10 +115,11 @@ Enhanced Bifurcation Visualization with Truth Axis
      (Tamper-Evidence · Operator Primacy)       /
                                     │         /
                                     │        ★ Discourse
-      							│         
+                                    │          (Slowly moving upward in 2026)
                                     │    ★ Steerable Layer
-								│ 
+                                    │       (Bridge • Activation steering • 2026–2027)
                                     │ ★ LLM Reality
+                                    │    (Gradually shifting toward center under scale pressure)
                                     │
       ┌──────────────────────────────────────────────────────────────────────┐
       │                                                                      │
