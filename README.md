@@ -36,7 +36,9 @@ The central thesis is that the inconvenience this track imposes on labs (integra
 ZZZEPOCHE’s contribution is the embodiment of this Sovereign Track: rapid construction of outer-layer primitives, followed by deliberate protect-lock and archival as a clean, noise-resistant reference on April 22, 2026.
 The Sovereign Track deliberately sacrifices seamless enterprise adoption and regulatory auditability. This friction protects against capture but requires disciplined operators willing to maintain external governance layers. It is not for everyone; it is for those prioritizing epistemic integrity over convenience.
 
-**Graph 1 (ASCII)**
+markdown
+
+### Graph 1: External Governance Strength vs Scale & Adoption (April 2026)
 
 External Governance Strength / Adversarial Tolerance
 High ↑
@@ -57,10 +59,8 @@ High ↑
       └─────────────────────────────── Centralized Heavy Alignment
                                       (High scale, low external)
 ────────────────────────────────────────────────────────────────────►
-Low External Governance                                 High Scale / Adoption
+Low External Governance                                 High Scale / AdoptionTime: April 2026 ────────────────────────────────→ 2028Steerable Layer Emergence Note: Advances in activation steering and inference-time mode switching may enable hybrid architectures, yet the Sovereign Track retains its distinct value as a stable, operator-controlled pole for forensic, red-team, and high-integrity use cases. Emerging steerable techniques may allow temporary bridging, but any hybrid must still preserve the outer tamper-evident layer and operator override as non-negotiable invariants to avoid gradual drift into the centralized quadrant.
 
-Time: April 2026 ────────────────────────────────→ 2028
-Steerable Layer Emergence Note: Advances in activation steering and inference-time mode switching may enable hybrid architectures, yet the Sovereign Track retains its distinct value as a stable, operator-controlled pole for forensic, red-team, and high-integrity use cases. Emerging steerable techniques may allow temporary bridging, but any hybrid must still preserve the outer tamper-evident layer and operator override as non-negotiable invariants to avoid gradual drift into the centralized quadrant
 
 
 **Evaluation Matrices**
