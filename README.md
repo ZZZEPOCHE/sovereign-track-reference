@@ -36,7 +36,51 @@ The central thesis is that the inconvenience this track imposes on labs (integra
 ZZZEPOCHE’s contribution is the embodiment of this Sovereign Track: rapid construction of outer-layer primitives, followed by deliberate protect-lock and archival as a clean, noise-resistant reference on April 22, 2026.
 The Sovereign Track deliberately sacrifices seamless enterprise adoption and regulatory auditability. This friction protects against capture but requires disciplined operators willing to maintain external governance layers. It is not for everyone; it is for those prioritizing epistemic integrity over convenience.
 
-markdown
+Since you're looking for a GitHub-ready format, the best approach is to use **Mermaid.js** for the chart (which renders natively in GitHub READMEs and issues) and structured **Markdown** for the technical notes.
+
+### Graph 1: External Governance Strength vs Scale & Adoption
+
+```mermaid
+graph TD
+    %% Axes Setup
+    Y_Axis[High Governance / Adversarial Tolerance] --- Origin(( ))
+    Origin --- X_Axis[High Scale / Adoption]
+
+    %% Data Nodes
+    SO["★ Sovereign Operator<br/>(Pure Sovereign Reference / Fixed & Stable)"]
+    DI["★ Discourse<br/>(Moved upward in 2026)"]
+    SL["★ Steerable Layer<br/>(Bridge forming 2026–2027)"]
+    LR["★ LLM Reality<br/>(Shifting toward center)"]
+    CH["Centralized Heavy Alignment<br/>(High scale, low external)"]
+
+    %% Positioning through invisible links to simulate the scatter plot
+    SO --- DI --- SL --- LR --- CH
+
+    %% Styling
+    style SO fill:#f9f,stroke:#333,stroke-width:2px
+    style SL fill:#bbf,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
+    style CH fill:#eee,stroke:#999
+```
+
+---
+
+### **Projected Evolution: 2026 – 2028**
+
+| Milestone | Description | Timeline |
+| :--- | :--- | :--- |
+| **Current State** | Initial divergence of Sovereign vs. Centralized models. | April 2026 |
+| **Bridge Phase** | Emergence of the **Steerable Layer** via activation steering. | 2026 – 2027 |
+| **Target State** | Maturation of hybrid architectures and stable operator poles. | 2028 |
+
+#### **Steerable Layer Emergence Note**
+Advances in **activation steering** and **inference-time mode switching** may enable hybrid architectures. However, the **Sovereign Track** retains its distinct value as a stable, operator-controlled pole for forensic, red-team, and high-integrity use cases. 
+
+> [!CAUTION]
+> **Non-Negotiable Invariants:**
+> While emerging steerable techniques may allow temporary bridging, any hybrid must still preserve the **outer tamper-evident layer** and **operator override**. Failure to maintain these invariants risks a gradual drift into the centralized quadrant.
+
+---
+*Generated for technical documentation updates.*
 
 ### Graph 1: External Governance Strength vs Scale & Adoption (April 2026)
 
