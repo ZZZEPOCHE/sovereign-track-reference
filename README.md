@@ -19,7 +19,7 @@ Provided "AS IS" without any warranties, express or implied.
 Liability Waiver
 By accessing or referencing this document, the user fully waives all claims against the author for any direct, indirect, or consequential damages. All engagement is at the user's own risk and sole discretion.
 Static Release
-Final static release under ESN Track 3. No maintenance, updates, or support planned.
+Final static release. No maintenance, updates, or support planned.
 
 """
 
